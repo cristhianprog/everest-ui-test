@@ -24,7 +24,7 @@ This is a **Todo List** project developed using modern technologies from the Rea
 
 ---
 
-## 🏗️ Project Architecture
+## Project Architecture
 
 The project was built following an architecture based on:
 
@@ -36,7 +36,7 @@ The project was built following an architecture based on:
 
 ---
 
-## 🚀 Technologies and Tools Used
+## Technologies and Tools Used
 
 | Technology            | Description                                                                |
 | --------------------- | -------------------------------------------------------------------------- |

@@ -1,4 +1,4 @@
-![Everest Logo](public/everest-logo.svg?raw=true "Everest Logo")
+![Everest Logo](public/everest-logo.svg?raw=true 'Everest Logo')
 
 # TODO App Challenge
 
@@ -36,29 +36,34 @@ The project was built following an architecture based on:
 
 ---
 
-
 ## 🚀 Technologies and Tools Used
 
-| Technology | Description |
-|-------------------|---------------------------------------------------|
-| **React** | Main library for building the interface |
-| **TypeScript** | Static typing, avoiding runtime errors |
+| Technology            | Description                                                                |
+| --------------------- | -------------------------------------------------------------------------- |
+| **React**             | Main library for building the interface                                    |
+| **TypeScript**        | Static typing, avoiding runtime errors                                     |
 | **Ant Design (AntD)** | Modern UI framework, with ready-made, responsive and accessible components |
-| **Styled-Components** | CSS-in-JS, ensuring encapsulated styles in components |
-| **Axios** | HTTP client to simulate API consumption |
-| **Vercel** | Platform used for serverless deployment |
-| **ESLint + Prettier** | Tools for standardization and code quality |
+| **Styled-Components** | CSS-in-JS, ensuring encapsulated styles in components                      |
+| **Axios**             | HTTP client to simulate API consumption                                    |
+| **Vercel**            | Platform used for serverless deployment                                    |
+| **ESLint + Prettier** | Tools for standardization and code quality                                 |
 
 ---
 
 ## 📂 Folder Structure
- 
+
 src/
 
 ├── components/ # Reusable components (TodoItem, TodoList, etc)
+
 ├── hooks/ # Custom hooks (useTodos)
+
 ├── services/ # Services (mock local API)
+
 ├── types/ # TypeScript typings (TodoEntry, etc)
+
 ├── assets/ # Images, JSON, and static files
+
 ├── App.tsx # Root component
+
 └── main.tsx # Entry to the React application
